@@ -2,7 +2,6 @@
 
 A Full Stack adventure time themed blog app, allowing posts to be created from Sanity CMS backend.
 
----
 
 ## Screenshot
 ![](./mainpage.png)

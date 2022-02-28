@@ -24,7 +24,7 @@ A Full Stack adventure time themed blog app, allowing posts to be created from S
 
 ## Motivation
 
-I mainly wanted to create a project that uses Typescript in order to get more comfortable with writing type definitions. The fullstack implementation was just a bonus as I got to play around with Next.js API routes and connecting a Sanity CMS backend to a frontend client. 
+I mainly wanted to create a project that uses Typescript in order to get more comfortable with writing type definitions. The fullstack implementation was just a bonus as I got to play around with Next.js API routes and connecting a Sanity CMS backend to a frontend client. I referenced [this video](https://www.youtube.com/watch?v=I2dcpatq54o)
 
 I enjoyed learning and thinking through about the schemas that I needed to consider while working with Sanity CMS. I think thinking through the entire database design helps me learn more deeply about how to create and store data.
 

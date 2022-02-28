@@ -31,9 +31,9 @@ The theming was just a fun bonus (and so I wouldn't run out of ideas to write du
 
 I completely underestimated the power of Typescript, and I think I've fallen in love with using typescript and will continue to incorporate typescript into my projects
 
----
 
 ## Author
+
 Ian Wu
 
 - LinkedIn - [@iannnop](https://www.linkedin.com/in/iannnop/)

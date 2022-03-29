@@ -37,5 +37,5 @@ I completely underestimated the power of Typescript, and I think I've fallen in 
 Ian Wu
 
 - LinkedIn - [@iannnop](https://www.linkedin.com/in/iannnop/)
-- Instagram - [@iannnop_frontend](https://www.instagram.com/iannnop_frontend/)
+- Instagram - [@ian.wuu](https://www.instagram.com/ian.wuu/)
 - Twitter - [@iannnop](https://www.twitter.com/iannnop)
